@@ -1,0 +1,1 @@
+Este es el proyecto in inicial de María Díaz para el curso de programación web Full Stack.
